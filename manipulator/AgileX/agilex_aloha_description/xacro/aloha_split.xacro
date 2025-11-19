@@ -47,7 +47,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="file://$(find camera_models)/meshes/dabai/dabai.obj"/>
+        <mesh filename="file://$(find sensor_models)/meshes/dabai/dabai.obj"/>
       </geometry>
     </visual>
   </link>
@@ -72,7 +72,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="file://$(find camera_models)/meshes/mid360/mid360.obj"/>
+        <mesh filename="file://$(find sensor_models)/meshes/mid360/mid360.obj"/>
       </geometry>
     </visual>
   </link>
@@ -129,7 +129,7 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="file://$(find camera_models)/meshes/dabai/dabai.obj"/>
+        <mesh filename="file://$(find sensor_models)/meshes/dabai/dabai.obj"/>
       </geometry>
     </visual>
   </link>

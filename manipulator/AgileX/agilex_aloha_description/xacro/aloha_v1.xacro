@@ -79,7 +79,7 @@
 			</visual>
 			<visual>
 				<geometry>
-					<mesh filename="file://$(find camera_models)/meshes/d435/d435.obj"/>
+					<mesh filename="file://$(find sensor_models)/meshes/d435/d435.obj"/>
 				</geometry>
 			</visual>
 		</link>
@@ -109,7 +109,7 @@
 			</visual>
 			<visual>
 				<geometry>
-					<mesh filename="file://$(find camera_models)/meshes/d435/d435.obj"/>
+					<mesh filename="file://$(find sensor_models)/meshes/d435/d435.obj"/>
 				</geometry>
 			</visual>
 		</link>
@@ -134,7 +134,7 @@
 			</inertial>
 			<visual>
 				<geometry>
-					<mesh filename="file://$(find camera_models)/meshes/mid360/mid360.obj"/>
+					<mesh filename="file://$(find sensor_models)/meshes/mid360/mid360.obj"/>
 				</geometry>
 			</visual>
 		</link>

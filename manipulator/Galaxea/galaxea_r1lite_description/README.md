@@ -3,6 +3,8 @@
 This package contains the description files for Galaxea R1 Humanoid Robot. The origin models could be found
 at [GalaxeaManipSim](https://github.com/OpenGalaxea/GalaxeaManipSim).
 
+![Isaac](../../.images/galaxea_r1_lite_isaac.png)
+
 ## 1. Build
 
 ```bash
